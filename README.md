@@ -1,5 +1,5 @@
 # MINICORE-FE
-Este minicore está tomado del repositorio de Christian Narvaez - Este es el FRONT END del MINICORE
+Este minicore está tomado del repositorio de Christian Narvaez - Este es el BACK END del MINICORE
 
 Git-Original:
 https://github.com/ChrisNT23/MiniCore-/tree/master
