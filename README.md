@@ -1,4 +1,4 @@
-# MINICORE-FE
+# MINICORE-BE
 Este minicore está tomado del repositorio de Christian Narvaez - Este es el BACK END del MINICORE
 
 Git-Original:
